@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Ant Design of Angular
+title: FinanceTRacker
 ---
 
 An enterprise-class Angular UI component library based on Ant Design, all components are open source and free to use under MIT license.
